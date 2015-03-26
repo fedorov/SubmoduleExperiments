@@ -1,0 +1,3 @@
+[submodule "PCampReview"]
+	path = PCampReview
+	url = https://github.com/fedorov/PCampReview.git
